@@ -1,5 +1,3 @@
-# AssignmentRelianceJio
-
 # Getting Started
 This project contains the modifications to the games which are given in assesment.
 
